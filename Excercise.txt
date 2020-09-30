@@ -1,0 +1,6 @@
+1.Explain what the terminal is in your own words.
+The terminal to me is like the control center or command prompt where all files can be shown,created, and deleted. Super powerful and useful tool.
+2.What is the major difference between Git and Github?
+Git is a popular Version control that keeps track of your source code history while Github is a cloud-based hosting service that manages your Git repositories and code.
+3.Why do we use Github?
+Well first of all Github is a great way to share code amoung your team and it is also a way for a recruiter from another company to take a look at your coding skills. Github can hold all of your projects and code also. 
